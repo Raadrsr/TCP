@@ -1,0 +1,17 @@
+C:\Users\raads\Desktop\Data\EigeneProjekte\C#\TCP\Client\bin\Debug\net6.0\Client.exe
+C:\Users\raads\Desktop\Data\EigeneProjekte\C#\TCP\Client\bin\Debug\net6.0\Client.deps.json
+C:\Users\raads\Desktop\Data\EigeneProjekte\C#\TCP\Client\bin\Debug\net6.0\Client.runtimeconfig.json
+C:\Users\raads\Desktop\Data\EigeneProjekte\C#\TCP\Client\bin\Debug\net6.0\Client.dll
+C:\Users\raads\Desktop\Data\EigeneProjekte\C#\TCP\Client\bin\Debug\net6.0\Client.pdb
+C:\Users\raads\Desktop\Data\EigeneProjekte\C#\TCP\Client\obj\Debug\net6.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raads\Desktop\Data\EigeneProjekte\C#\TCP\Client\obj\Debug\net6.0\Client.AssemblyInfoInputs.cache
+C:\Users\raads\Desktop\Data\EigeneProjekte\C#\TCP\Client\obj\Debug\net6.0\Client.AssemblyInfo.cs
+C:\Users\raads\Desktop\Data\EigeneProjekte\C#\TCP\Client\obj\Debug\net6.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\raads\Desktop\Data\EigeneProjekte\C#\TCP\Client\obj\Debug\net6.0\Client.dll
+C:\Users\raads\Desktop\Data\EigeneProjekte\C#\TCP\Client\obj\Debug\net6.0\refint\Client.dll
+C:\Users\raads\Desktop\Data\EigeneProjekte\C#\TCP\Client\obj\Debug\net6.0\Client.pdb
+C:\Users\raads\Desktop\Data\EigeneProjekte\C#\TCP\Client\obj\Debug\net6.0\Client.genruntimeconfig.cache
+C:\Users\raads\Desktop\Data\EigeneProjekte\C#\TCP\Client\obj\Debug\net6.0\ref\Client.dll
+C:\Users\raads\Desktop\Data\EigeneProjekte\C#\TCP\Client\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\raads\Desktop\Data\EigeneProjekte\C#\TCP\Client\obj\Debug\net6.0\Client.csproj.AssemblyReference.cache
+C:\Users\raads\Desktop\Data\EigeneProjekte\C#\TCP\Client\obj\Debug\net6.0\Client.csproj.CopyComplete
